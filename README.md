@@ -211,4 +211,4 @@ Contributions are welcome! Please ensure your code follows the existing style:
 **Note**: Always test in a safe environment before using on live games. Respect game developers and other players.
 
 
-**Thanks MEGALLM**: Gracias por los creditos que me ayudaron a avanzar el proyecto.
+**Thanks MEGALLM**: Thank you for the credits that helped me move the project forward.
