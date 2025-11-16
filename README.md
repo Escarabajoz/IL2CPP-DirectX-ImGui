@@ -58,7 +58,7 @@ IL2CPP-DirectX-ImGui-Base/
 
 1. **Clone the repository**
    ```bash
-   git clone <[repository](https://github.com/Escarabajoz/IL2CPP-DirectX-ImGui.git)>
+   git clone [repository](https://github.com/Escarabajoz/IL2CPP-DirectX-ImGui.git
    cd IL2CPP-DirectX-ImGui-Base
    ```
 
